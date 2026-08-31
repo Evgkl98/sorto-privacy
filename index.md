@@ -1,4 +1,3 @@
-<img width="120" height="120" alt="Circular Backdrop with Tonal Layering" src="https://github.com/user-attachments/assets/c72cfb4e-eafc-467e-bfca-841220af1f8d" />
 
 # Privacy Policy — Sorto
 
